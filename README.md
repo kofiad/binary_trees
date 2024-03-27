@@ -1,7 +1,7 @@
 # 0x1D. C - Binary trees
 
 Isaac Kumatse <ikumatse@st.ug.edu.gh>
-Gilbert Henyo <>
+Gilbert Henyo <kofiadaaa@gmail.com>
 
 ## Resources
 
